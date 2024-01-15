@@ -40,23 +40,23 @@ Cowboy, resigned but smiling: "Guess I've got sole companions now!"
 
 The pun in the text makes the comic funny, however, the fact that AI struggles to generate the text in the image is also funny.
 
-![Image]()
+![Image](https://github.com/thisislink/aicomicweekly/blob/main/comics/week-1/DALL-E-Comic-The-Socks-of-Destiny.png)
 
 ## Five Comic Images as Told via Panels
 
 AI also struggles to consistently use the same images it generated from the full comic when prompted to generate one at a time. However, AI does better at telling the story when generating the images one at a time.
 
 Panel 1
-![Image]()
+![Image](https://github.com/thisislink/aicomicweekly/blob/main/comics/week-1/The-Socks-of-Destiny-Panel-1.png)
 
 Panel 2
-![Image]()
+![Image](https://github.com/thisislink/aicomicweekly/blob/main/comics/week-1/The-Socks-of-Destiny-Panel-2.png)
 
 Panel 3
-![Image]()
+![Image](https://github.com/thisislink/aicomicweekly/blob/main/comics/week-1/The-Socks-of-Destiny-Panel-3.png)
 
 Panel 4
-![Image]()
+![Image](https://github.com/thisislink/aicomicweekly/blob/main/comics/week-1/The-Socks-of-Destiny-Panel-4.png)
 
 Panel 5
-![Image]()
+![Image](https://github.com/thisislink/aicomicweekly/blob/main/comics/week-1/The-Socks-of-Destiny-Panel-5.png)
