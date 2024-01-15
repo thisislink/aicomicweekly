@@ -1,6 +1,10 @@
 # AI Comic Weekly
 AI Comics generated using a custom version of ChatGPT and a random word generator. [Website](https://aicomicweekly.com)
 
+| Comic Title | Issue Number |
+| --- | --- |
+| [The Socks of Destiny](https://github.com/thisislink/aicomicweekly/blob/main/comics/week-1/the-socks-of-destiny.md) | 1 |
+
 ## Tech Stack
 - Custom Version of ChatGPT: [AI Comic Maker by Elio Testa](https://chat.openai.com/g/g-1LM0T9LSW-ai-comic-maker)
 - Creativity Games Idea Generator: [Random Word Generator](https://ideagenerator.creativitygames.net/)
