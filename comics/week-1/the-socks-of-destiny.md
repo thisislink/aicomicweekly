@@ -40,23 +40,23 @@ Cowboy, resigned but smiling: "Guess I've got sole companions now!"
 
 The pun in the text makes the comic funny, however, the fact that AI struggles to generate the text in the image is also funny.
 
-![Image](https://github.com/thisislink/aicomicweekly/blob/690e501df547fb9859621f54b7b6cd0a3c3ee5d1/comics/week-1/DALL-E-Comic-The-Socks-of-Destiny.png)
+![Image](https://github.com/thisislink/aicomicweekly/blob/690e501df547fb9859621f54b7b6cd0a3c3ee5d1/comics/week-1/DALL-E-Comic-The-Socks-of-Destiny.png?raw=true)
 
 ## Five Comic Images as Told via Panels
 
 AI also struggles with consistency. It doesn't use the same images generated from the full comic and it doesn't use the same cowboy when prompted to generate images one at a time. However, AI does better at telling the story when generating the images one at a time.
 
 Panel 1
-![Image](https://github.com/thisislink/aicomicweekly/blob/690e501df547fb9859621f54b7b6cd0a3c3ee5d1/comics/week-1/The-Socks-of-Destiny-Panel-1.png)
+![Image](https://github.com/thisislink/aicomicweekly/blob/690e501df547fb9859621f54b7b6cd0a3c3ee5d1/comics/week-1/The-Socks-of-Destiny-Panel-1.png?raw=true)
 
 Panel 2
-![Image](https://github.com/thisislink/aicomicweekly/blob/690e501df547fb9859621f54b7b6cd0a3c3ee5d1/comics/week-1/The-Socks-of-Destiny-Panel-2.png)
+![Image](https://github.com/thisislink/aicomicweekly/blob/690e501df547fb9859621f54b7b6cd0a3c3ee5d1/comics/week-1/The-Socks-of-Destiny-Panel-2.png?raw=true)
 
 Panel 3
-![Image](https://github.com/thisislink/aicomicweekly/blob/690e501df547fb9859621f54b7b6cd0a3c3ee5d1/comics/week-1/The-Socks-of-Destiny-Panel-3.png)
+![Image](https://github.com/thisislink/aicomicweekly/blob/690e501df547fb9859621f54b7b6cd0a3c3ee5d1/comics/week-1/The-Socks-of-Destiny-Panel-3.png?raw=true)
 
 Panel 4
-![Image](https://github.com/thisislink/aicomicweekly/blob/690e501df547fb9859621f54b7b6cd0a3c3ee5d1/comics/week-1/The-Socks-of-Destiny-Panel-4.png)
+![Image](https://github.com/thisislink/aicomicweekly/blob/690e501df547fb9859621f54b7b6cd0a3c3ee5d1/comics/week-1/The-Socks-of-Destiny-Panel-4.png?raw=true)
 
 Panel 5
-![Image](https://github.com/thisislink/aicomicweekly/blob/690e501df547fb9859621f54b7b6cd0a3c3ee5d1/comics/week-1/The-Socks-of-Destiny-Panel-5.png)
+![Image](https://github.com/thisislink/aicomicweekly/blob/690e501df547fb9859621f54b7b6cd0a3c3ee5d1/comics/week-1/The-Socks-of-Destiny-Panel-5.png?raw=true)
