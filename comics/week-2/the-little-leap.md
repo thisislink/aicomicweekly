@@ -52,4 +52,4 @@ Panel 5
 
 Panel 6
 
-![Image](https://github.com/thisislink/aicomicweekly/blob/690e501df547fb9859621f54b7b6cd0a3c3ee5d1/comics/week-2/The-Little-Leap-6.png?raw=true)
+![Image](https://github.com/thisislink/aicomicweekly/blob/82f8deb8b07205ef5830a62118fe4336f0ed8113/comics/week-2/The-Little-Leap-6.png?raw=true)
