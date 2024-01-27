@@ -5,6 +5,8 @@ AI Comics generated using a custom version of ChatGPT and a random word generato
 | --- | --- |
 | [The Socks of Destiny](https://aicomicweekly.com/comics/week-1/the-socks-of-destiny) | 1 |
 | [The Little Leap: A Pebble's Circus Triumph](https://aicomicweekly.com/comics/week-2/the-little-leap/) | 2 |
+| [Making Cents of Taxes](https://aicomicweekly.com/comics/week-3/making-cents-of-taxes/) | 3 |
+
 
 ## Tech Stack
 - Custom Version of ChatGPT: [AI Comic Maker by Elio Testa](https://chat.openai.com/g/g-1LM0T9LSW-ai-comic-maker)
