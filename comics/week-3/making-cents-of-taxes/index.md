@@ -22,4 +22,4 @@ AI struggled with this comic more than previous comics tha I've generated, for s
 
 ### Comic Image
 
-![Image](https://github.com/thisislink/aicomicweekly/blob/82f8deb8b07205ef5830a62118fe4336f0ed8113/comics/week-3/making-cents-of-taxes.png?raw=true&width=400)
+![Image](https://github.com/thisislink/aicomicweekly/blob/comics/comics/week-3/making-cents-of-taxes.png?raw=true&width=400)
