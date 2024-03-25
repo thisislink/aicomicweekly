@@ -47,16 +47,16 @@ The pun in the text makes the comic funny, however, the fact that AI struggles t
 AI also struggles with consistency. It doesn't use the same images generated from the full comic and it doesn't use the same cowboy when prompted to generate images one at a time. However, AI does better at telling the story when generating the images one at a time.
 
 Panel 1
-![Image](https://github.com/thisislink/aicomicweekly/blob/690e501df547fb9859621f54b7b6cd0a3c3ee5d1/comics/week-1/The-Socks-of-Destiny-Panel-1.png?raw=true&width=400)
+![Image](https://github.com/thisislink/aicomicweekly/blob/690e501df547fb9859621f54b7b6cd0a3c3ee5d1/comics/issue-1/The-Socks-of-Destiny-Panel-1.png?raw=true&width=400)
 
 Panel 2
-![Image](https://github.com/thisislink/aicomicweekly/blob/690e501df547fb9859621f54b7b6cd0a3c3ee5d1/comics/week-1/The-Socks-of-Destiny-Panel-2.png?raw=true&width=400)
+![Image](https://github.com/thisislink/aicomicweekly/blob/690e501df547fb9859621f54b7b6cd0a3c3ee5d1/comics/issue-1/The-Socks-of-Destiny-Panel-2.png?raw=true&width=400)
 
 Panel 3
-![Image](https://github.com/thisislink/aicomicweekly/blob/690e501df547fb9859621f54b7b6cd0a3c3ee5d1/comics/week-1/The-Socks-of-Destiny-Panel-3.png?raw=true&width=400)
+![Image](https://github.com/thisislink/aicomicweekly/blob/690e501df547fb9859621f54b7b6cd0a3c3ee5d1/comics/issue-1/The-Socks-of-Destiny-Panel-3.png?raw=true&width=400)
 
 Panel 4
-![Image](https://github.com/thisislink/aicomicweekly/blob/690e501df547fb9859621f54b7b6cd0a3c3ee5d1/comics/week-1/The-Socks-of-Destiny-Panel-4.png?raw=true&width=400)
+![Image](https://github.com/thisislink/aicomicweekly/blob/690e501df547fb9859621f54b7b6cd0a3c3ee5d1/comics/issue-1/The-Socks-of-Destiny-Panel-4.png?raw=true&width=400)
 
 Panel 5
-![Image](https://github.com/thisislink/aicomicweekly/blob/690e501df547fb9859621f54b7b6cd0a3c3ee5d1/comics/week-1/The-Socks-of-Destiny-Panel-5.png?raw=true&width=400)
+![Image](https://github.com/thisislink/aicomicweekly/blob/690e501df547fb9859621f54b7b6cd0a3c3ee5d1/comics/issue-1/The-Socks-of-Destiny-Panel-5.png?raw=true&width=400)

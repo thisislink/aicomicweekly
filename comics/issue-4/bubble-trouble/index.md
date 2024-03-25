@@ -16,4 +16,4 @@ Although I would have considered this a simplier comic, beccause it only had two
 
 ### Comic Image
 
-![Image](https://github.com/thisislink/aicomicweekly/blob/comics/comics/week-4/Bubble-Trouble-Comic.webp?raw=true&width=400)
+![Image](https://github.com/thisislink/aicomicweekly/blob/comics/comics/issue-4/Bubble-Trouble-Comic.webp?raw=true&width=400)
