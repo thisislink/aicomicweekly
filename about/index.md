@@ -6,7 +6,7 @@ AI Comics generated using a custom version of ChatGPT and a random word generato
 | [The Socks of Destiny](https://aicomicweekly.com/comics/week-1/the-socks-of-destiny) | 1 |
 | [The Little Leap: A Pebble's Circus Triumph](https://aicomicweekly.com/comics/week-2/the-little-leap/) | 2 |
 | [Making Cents of Taxes](https://aicomicweekly.com/comics/week-3/making-cents-of-taxes/) | 3 |
-| [Bubble Trouble](https://aicomicweekly.com/comics/week-3/bubble-trouble/) | 3 |
+| [Bubble Trouble](https://aicomicweekly.com/comics/week-3/bubble-trouble/) | 4 |
 
 
 ## Tech Stack
