@@ -3,19 +3,19 @@ AI Comics generated using a custom version of ChatGPT and a random word generato
 
 | Comic Title | Issue Number |
 | --- | --- |
-| [The Socks of Destiny](https://aicomicweekly.com/comics/week-1/the-socks-of-destiny) | 1 |
-| [The Little Leap: A Pebble's Circus Triumph](https://aicomicweekly.com/comics/week-2/the-little-leap/) | 2 |
-| [Making Cents of Taxes](https://aicomicweekly.com/comics/week-3/making-cents-of-taxes/) | 3 |
-| [Bubble Trouble](https://aicomicweekly.com/comics/week-4/bubble-trouble/) | 4 |
+| [The Socks of Destiny](https://aicomicweekly.com/comics/issue-1/the-socks-of-destiny) | 1 |
+| [The Little Leap: A Pebble's Circus Triumph](https://aicomicweekly.com/comics/issue-2/the-little-leap/) | 2 |
+| [Making Cents of Taxes](https://aicomicweekly.com/comics/issue-3/making-cents-of-taxes/) | 3 |
+| [Bubble Trouble](https://aicomicweekly.com/comics/issue-4/bubble-trouble/) | 4 |
 
 
 ## Tech Stack
 - Custom Version of ChatGPT: [AI Comic Maker by Elio Testa](https://chat.openai.com/g/g-1LM0T9LSW-ai-comic-maker)
 - Creativity Games Idea Generator: [Random Word Generator](https://ideagenerator.creativitygames.net/)
-
+- [GitHub Repo](https://github.com/thisislink/aicomicweekly/tree/comics)
 
 ## Purpose
-This project was created as a way to facilitate being able to participate in the forum for the humor threads when taking CS 7637 KBAI in Georgia Tech's OMSCS program.
+This project was created as a way to facilitate being able to participate in the forum for the humor threads when taking CS 7637 KBAI in Georgia Tech's OMSCS program. 
 
 ## How is a comic created?
 1. Generate a random word from the [Creativity Games Idea Generator](https://ideagenerator.creativitygames.net/).
